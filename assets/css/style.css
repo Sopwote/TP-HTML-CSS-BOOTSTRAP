@@ -1,0 +1,68 @@
+* {
+    font-family: sans-serif;
+}
+
+body {
+    background-color: rgb(229, 243, 247);
+}
+
+.navbar {
+    margin-top: 10px;
+    box-shadow: 5px 5px 5px 2px black;
+    border-radius: 5px;
+}
+
+.carousel-inner {
+    margin-top: 40px;
+    max-height: 850px;
+}
+
+.container {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+p {
+    text-align: start;
+}
+
+.destination {
+    border: 1px solid white;
+    background-color: rgb(255, 255, 255);
+    margin-top: 30px;
+    text-align: center;
+}
+
+.container-fluid {
+    margin-top: 20px;
+}
+
+.imgall {
+    border-radius: 10px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+
+.tr-cellule { 
+    border-radius: 10px;
+    box-shadow: 3px 3px 15px 1px ;
+    padding: 3px;
+    text-align: center;
+}
+
+.btnNC {
+    font-size: 3vh;
+}
+
+footer {
+    background-color: rgb(255, 255, 255);
+    border: 3px solid grey;
+    box-shadow: 5px 0px 5px 5px rgb(90, 90, 90);
+    color: black;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
